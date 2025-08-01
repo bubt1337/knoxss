@@ -1,0 +1,3 @@
+https://www.bubt.edu.bd/search/result?search_data=[XSS]
+http://testphp.vulnweb.com/artists.php?artist=[XSS]
+https://www.bdstall.com/search/?term=[XSS]
